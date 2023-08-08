@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gnaneshwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gnaneshwar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gnaneshwar-p-52011a236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gnaneshwar-p-52011a236/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/gnaneshwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="gnaneshwar" height="30" width="40" /></a>
+<a href="https://twitter.com/@gnaneshwar718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gnaneshwar718" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gnaneshwar-p-52011a236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gnaneshwar-p-52011a236" height="30" width="40" /></a>
+<a href="https://codesandbox.com/gnaneshwar718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="gnaneshwar718" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
