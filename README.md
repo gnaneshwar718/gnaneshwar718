@@ -6,8 +6,9 @@
   <a href="https://linkedin.com/in/gnaneshwar-p-52011a236"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gnaneshwar718&show_icons=true&theme=dark" alt="GitHub Stats">
+<p align="center">[
+  <img src="https://github-readme-stats.vercel.app/api?username=gnaneshwar718&show_icons=true&theme=dark" alt="GitHub Stats">](https://github-readme-stats.vercel.app/api?username=gnaneshwar718&show_icons=true&theme=dark&cache_seconds=1800
+)
 </p>
 
 ### I’m currently doing my internship in Quintype Technologies</br> I’m currrently learning basics of web development like **HTMl, linux, CSS, Javascript, Git and Github**
